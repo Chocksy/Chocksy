@@ -34,5 +34,4 @@
 
 [![Website](https://img.shields.io/badge/-chocksy.com-FF5722?style=flat-square&logo=google-chrome&logoColor=white)](https://chocksy.com)
 [![X](https://img.shields.io/badge/-@chocksy-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/chocksy)
-[![Email](https://img.shields.io/badge/-chocksy@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:chocksy@gmail.com)
 [![GitHub](https://img.shields.io/badge/-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Chocksy)
