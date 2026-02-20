@@ -19,6 +19,7 @@
 
 ## Other Projects
 
+- 🤖 **[AI Standups](https://github.com/Chocksy/ai-standups)** - Async daily stand-ups powered by AI — collect updates in Slack, surface blockers, get auto-generated summaries ([ai-standups.com](https://ai-standups.com))
 - 📈 **[qc-options-framework](https://github.com/Chocksy/qc-options-framework)** - Options trading framework for QuantConnect's Lean engine
 - 🎨 **[EpicPxls](https://epicpxls.com)** - Design resources marketplace for developers and designers
 - ⚙️ **[claude-settings](https://github.com/Chocksy/claude-settings)** - Claude Code settings and configuration
